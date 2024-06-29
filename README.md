@@ -8,7 +8,7 @@ I'm Dylan, and I'm a hobbyist programmer with career aspirations in **_Genetic E
 
 I know some basic **Python**, **HTML**, **CSS**, and an introductory level of **R**, but I'm still a beginner by all means 🌱
 
-I'm aiming to firther my programmin skills to be used in **_Speculative Evolution Modelling_** 📊
+I'm aiming to further my programmin skills to be used in **_Speculative Evolution Modelling_** 📊
 
 <!--
 **gi1gs/gi1gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
